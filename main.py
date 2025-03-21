@@ -1,0 +1,1 @@
+print("Chris und lasse mögen gerne bier trinken. Sehr gern")
