@@ -1,10 +1,11 @@
-import pandas as pd
-import re
-import nltk
-from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
-from nltk.tokenize import RegexpTokenizer
-from sklearn.model_selection import train_test_split
+#Import von Bibliotheken
+import pandas as pd     #Datenverarbeitung von Tabellen
+import re               #Textbereinigung
+import nltk             #Natural Language Toolkit - für Sprachverarbeitung
+from nltk.corpus import stopwords                       #Stoppwörter wie the oder and
+from nltk.stem import WordNetLemmatizer                 #Lemmatisierung: Grunfdormen
+from nltk.tokenize import RegexpTokenizer               #Teilt Text in Wörter
+from sklearn.model_selection import train_test_split    #Zum Aufteilen in Trainings/Testdaten
 
 # === 1. NLTK Setup ===
 nltk.data.path.append("/Users/lassewesterbuhr/nltk_data")  # Stelle sicher, dass Punkt, Stopwords, WordNet geladen sind
