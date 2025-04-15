@@ -95,3 +95,5 @@ plt.savefig("shap_summary_lightgbm.png", bbox_inches="tight")
 
 end_time = time.time()
 print(f"\nGesamtlaufzeit: {end_time - start_time:.2f} Sekunden")
+
+
