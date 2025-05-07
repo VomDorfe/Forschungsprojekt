@@ -1,0 +1,6 @@
+Original Review zum SHAP Decision Plot:
+
+yes mtv really way market daria started clever teenage angstcomment everything suck make viewer feel better sucky teenage life sitcom mutated deal problemscharade used watch daria time loved sitting watching called movie wonder point daria tell lead life college excuse didnt point daria made every episode like long matter rest sick sad world think entire thing reminded scene reality bite movie channel show documentry first time
+
+Vorhersage des Modells: positiv
+SHAP Modellwert f(x): 1.329

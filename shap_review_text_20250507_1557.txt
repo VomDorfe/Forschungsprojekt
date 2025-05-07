@@ -1,0 +1,34 @@
+SHAP Decision Plot: Review-Analyse
+Index im Testset: 0
+
+=== Original Review (unbereinigt) ===
+Yes, MTV there really is a way to market Daria. What started as a clever teenage angst-"comment on everything that sucks and make the viewer feel better about their sucky teenage life" sitcom now mutated into a "how you should deal with your problems"-charade. I used to watch Daria all the time and loved it. Now, sitting here after watching the so called "movie" I can only wonder what the point of this all was. Daria tells us how to lead out life in college? Excuse me? didn't the point Daria made every episode that what you like to do is ok, as long as it is ok with yourself no matter what the rest of the sick sad world thinks of it? This entire thing reminded me of the scene in "Reality Bites" the movie channel shows the documentry for the first time.
+
+=== Bereinigter Text ===
+yes mtv really way market daria started clever teenage angstcomment everything suck make viewer feel better sucky teenage life sitcom mutated deal problemscharade used watch daria time loved sitting watching called movie wonder point daria tell lead life college excuse didnt point daria made every episode like long matter rest sick sad world think entire thing reminded scene reality bite movie channel show documentry first time
+
+=== Modellvorhersage ===
+f(x) = 1.3291
+→ Klassifikation: positiv
+
+=== Top SHAP-Wörter ===
+aaron: +0.000
+abandon: +0.000
+abandoned: +0.000
+abc: +0.000
+ability: +0.000
+able: +0.000
+able get: +0.000
+able see: +0.000
+aboard: +0.000
+abortion: +0.000
+abraham: +0.000
+abrupt: +0.000
+abruptly: +0.000
+absence: +0.000
+absent: +0.000
+absolute: +0.000
+absolutely: +0.000
+absolutely nothing: +0.000
+absurd: +0.000
+absurdity: +0.000

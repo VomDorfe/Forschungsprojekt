@@ -1,0 +1,34 @@
+SHAP Decision Plot: High Confidence
+Index im Testset: 7591
+
+=== Original Review (unbereinigt) ===
+This is a solid underrated little thriller, that has thrills-a plenty, with a cool story, Sandra Bullock is terrific!. All the characters are great, and I was surprised by how unpredictable it was as there were only a few predictable moments, plus Sandra Bullock is simply amazing in this!. Jeremy Northam played an awesome villain, and I know what Bullock's character in this is all about, because I'm kind of the same type of person(I hardly ever go out), plus this is pretty well made and written for the most part. This should be higher then 5.5 in my opinion, plus Denis Miller was surprisingly better then expected in his small role. The scene where Northam terrorizes Bullock on his boat was quite suspenseful, and was one of my favorite moments, and I also liked the chase scene in the carnival, plus I liked the ending too, as it was quite well done, even If i did think Northam was defeated too quickly. There are lots of other good chase scenes as well, and it's also clever at times too, plus there are quite a few shocking moments as well, This is a solid underrated little thriller, that has thrills a-plenty, with a cool story, Sandra Bullock is terrific, I highly recommend this one!. The Direction is great!. Irwin Winkler does a great! job here with excellent camera work, adding good atmosphere, good angles and keeping the film at a very fast pace. The Acting is fantastic!. Sandra Bullock is amazing as always and is amazing here, she is extremely likable, tough as nails yet quite vulnerable, and I was able to feel for her because as I said I'm sort of like Angela,I hardly ever go out, I really enjoyed her work in this movie! (Bullock Rules!!!!!!!). Jeremy Northam is excellent as the villain, he was sneaky, unpredictable and very menacing, he was great. Dennis Miller is surprisingly OK and non annoying in his small role, and managed to bring some comic relief. Rest of the cast are fine. Overall I highly recommend this one!. ***1/2 out of 5
+
+=== Bereinigter Text ===
+solid underrated little thriller thrillsa plenty cool story sandra bullock terrific character great surprised unpredictable predictable moment plus sandra bullock simply amazing jeremy northam played awesome villain know bullock character kind type personi hardly ever plus pretty well made written part higher opinion plus denis miller surprisingly better expected small role scene northam terrorizes bullock boat quite suspenseful one favorite moment also liked chase scene carnival plus liked ending quite well done even think northam defeated quickly lot good chase scene well also clever time plus quite shocking moment well solid underrated little thriller thrill aplenty cool story sandra bullock terrific highly recommend one direction great irwin winkler great job excellent camera work adding good atmosphere good angle keeping film fast pace acting fantastic sandra bullock amazing always amazing extremely likable tough nail yet quite vulnerable able feel said sort like angelai hardly ever really enjoyed work movie bullock rule jeremy northam excellent villain sneaky unpredictable menacing great dennis miller surprisingly non annoying small role managed bring comic relief rest cast fine overall highly recommend one
+
+=== Modellvorhersage ===
+f(x) = 10.4907
+→ Klassifikation: positiv
+
+=== Top SHAP-Wörter ===
+aaron: +0.000
+abandon: +0.000
+abandoned: +0.000
+abc: +0.000
+ability: +0.000
+able: +0.000
+able get: +0.000
+able see: +0.000
+aboard: +0.000
+abortion: +0.000
+abraham: +0.000
+abrupt: +0.000
+abruptly: +0.000
+absence: +0.000
+absent: +0.000
+absolute: +0.000
+absolutely: +0.000
+absolutely nothing: +0.000
+absurd: +0.000
+absurdity: +0.000

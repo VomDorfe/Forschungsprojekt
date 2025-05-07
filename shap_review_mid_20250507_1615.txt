@@ -1,0 +1,34 @@
+SHAP Decision Plot: Mid Confidence
+Index im Testset: 6800
+
+=== Original Review (unbereinigt) ===
+"Don't Change Your Husband" is another soap opera comedy from Producer/Director Cecil B. De Mille. It is notable as the first of several films he made starring Gloria Swanson. I guess you could also call it a sequel of sorts to his "Old Wives For New" (1918).<br /><br />James (Elliot Dexter) and Leila (Swanson) Porter are a forty-ish couple where James has gone to seed and become slovenly and lazy. he has a penchant for smelly cigars and eating raw onions. He takes his wife for granted. Leila tries to get him to straighten out to no avail.<br /><br />One night at a dinner party at the Porters, Leila meets the dashing Schyler Van Sutphen (now there's a moniker), the playboy nephew of socialite Mrs. Huckney (Sylvia Ashton). She invites Leila to her home for the weekend to make James "miss her". Once there Schyler begins to put the moves on her, promising her pleasure, wealth and love, if she will leave her husband and go with him. The sequences involving Leila's imagining this promised new life are lavishly staged and forecast De Mille's epic costume drams later in his career.<br /><br />Leila, bored with her marriage and her disinterested husband, divorces James and marries the playboy. James ultimately realizes that he has lost the only thing that mattered to him and begins to mend his ways. He shaves off his mustache, works out, shuns onions and re-acquires some manners.<br /><br />Meanwhile, all is not rosy with Leila's new marriage. Schyler it seems likes to gamble and has taken up with the gold digging Nanette (aka Tootsie, or some such name) (Julia Faye). Schyler loses all of his money and steals Leila's diamond ring to cover his losses.<br /><br />One fateful day, Leila meets the "new" James and is taken by the changes in him. James drives her home and becomes aware of her situation and.................................................<br /><br />This film marked the beginning of Gloria Swanson's rise to super stardom in a career that would rival that of Mary Pickford. Barely 20 years of age, she had begun her career in Mack Sennett two reel comedies as a teen ager. Elliot Dexter was almost 50 at this time but he and Swanson make a good team, although it's hard to imagine anyone tiring of the lovely Miss Swanson as is the case in this film.<br /><br />Dexter and Sylvia Ashton had appeared in the similar "Old Wives For New" where the wife had gone to seed and the husband was wronged.<br /><br />Also in the cast are De Mille regulars Theodore Roberts as a bishop and Raymond Hatton as a gambler.
+
+=== Bereinigter Text ===
+dont change husband another soap opera comedy producerdirector cecil mille notable first several film made starring gloria swanson guess could also call sequel sort old wife new james elliot dexter leila swanson porter fortyish couple james gone seed become slovenly lazy penchant smelly cigar eating raw onion take wife granted leila try get straighten availone night dinner party porter leila meet dashing schyler van sutphen there moniker playboy nephew socialite mr huckney sylvia ashton invite leila home weekend make james miss schyler begin put move promising pleasure wealth love leave husband sequence involving leilas imagining promised new life lavishly staged forecast milles epic costume dram later careerleila bored marriage disinterested husband divorce james marries playboy james ultimately realizes lost thing mattered begin mend way shave mustache work shuns onion reacquires mannersmeanwhile rosy leilas new marriage schyler seems like gamble taken gold digging nanette aka tootsie name julia faye schyler loses money steal leilas diamond ring cover lossesone fateful day leila meet new james taken change james drive home becomes aware situation andthis film marked beginning gloria swanson rise super stardom career would rival mary pickford barely year age begun career mack sennett two reel comedy teen ager elliot dexter almost time swanson make good team although hard imagine anyone tiring lovely miss swanson case filmdexter sylvia ashton appeared similar old wife new wife gone seed husband wrongedalso cast mille regular theodore robert bishop raymond hatton gambler
+
+=== Modellvorhersage ===
+f(x) = 0.5000
+→ Klassifikation: positiv
+
+=== Top SHAP-Wörter ===
+aaron: +0.000
+abandon: +0.000
+abandoned: +0.000
+abc: +0.000
+ability: +0.000
+able: +0.000
+able get: +0.000
+able see: +0.000
+aboard: +0.000
+abortion: +0.000
+abraham: +0.000
+abrupt: +0.000
+abruptly: +0.000
+absence: +0.000
+absent: +0.000
+absolute: +0.000
+absolutely: +0.000
+absolutely nothing: +0.000
+absurd: +0.000
+absurdity: +0.000
