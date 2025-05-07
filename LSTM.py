@@ -195,3 +195,4 @@ print(classification_report(y_test, y_pred))
 # === PERFORMANCE-MESSUNG ===
 end_time = time.time()
 print(f"Gesamtlaufzeit: {round(end_time - start_time, 2)} Sekunden")
+
